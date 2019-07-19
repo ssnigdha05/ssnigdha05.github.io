@@ -1,0 +1,23 @@
+#intro {
+  font-size: 60 px;
+  color: purple;
+  border: 3px solid teal;
+  background-color: orange;
+
+}
+
+
+#main {
+  font-size: 50 px;
+  color: lightseagreen;
+  /* border: 2px solid teal; */
+  height: 700px;
+  background: linear-gradient(to top left, #66ffcc 0%, #cc0099 100%);
+
+}
+
+#footer {
+  color: blue;
+  font-size: 20 px;
+  background-color: lightgreen;
+}
